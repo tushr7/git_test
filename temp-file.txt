@@ -1,5 +1,6 @@
 this is just a text file 
 written for learning git
 
+loving atx2
 
 :)
